@@ -2,7 +2,7 @@
   "name": "snake-game",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<kullanıcı-adın>.github.io/<repo-adın>",
+  "homepage": "https://enessbyram.github.io/snake-game",
   "type": "module",
   "scripts": {
     "dev": "vite",
